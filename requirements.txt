@@ -1,0 +1,9 @@
+langchain
+transformers
+replicate
+pinecone-client
+sentence_transformers
+xformers
+bitsandbytes
+accelerate
+streamlit
