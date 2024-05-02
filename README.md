@@ -1,4 +1,4 @@
-# URLChat: Uncovering Hidden Insights from URLs, Blogs, and Webpages
+# URLChat: Uncovering Hidden Insights from URLs, Blogs,and Webpages by harnessing LLMs(Llama2-13b, Falcon-7b)
 
 ## 📚 Introduction
 Imagine being able to uncover the true intentions behind an article, effortlessly grasping complex vocabulary, and extracting crucial information from lengthy webpages. Our URLChat tool makes this possible, leveraging the power of cutting-edge Large Language Models (LLMs) and Langchain to provide a seamless and immersive interaction with URLs, blogs, and webpages.
@@ -8,7 +8,7 @@ Imagine being able to uncover the true intentions behind an article, effortlessl
 ### 📋 Web-Based Document Loader
 Enter a URL, and our Web-Based Document Loader, powered by Langchain, will quickly and efficiently load the webpage, extracting the relevant content for analysis.
 
-### 🤖 Cloud-Based LLM Integration via Replicate
+### 🤖 Cloud-Based LLM Integration via Replicate (Llama2-13b, Falcon-7b)
 Our application integrates the latest cloud-based LLMs, including Llama2-13b and Falcon-7b, via the Replicate platform. Replicate is a cloud-based platform that enables developers to deploy, manage, and scale AI models in a seamless and efficient manner. With Replicate, we can easily access and utilize the latest LLMs, without the need for extensive infrastructure or maintenance. This allows us to focus on building a robust and user-friendly application that provides accurate and relevant responses to user queries.
 
 ### 🔗 Langchain Framework
